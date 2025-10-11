@@ -1,0 +1,288 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "modpack:textures/NFLogo.png",
+            "posX" : -172,
+            "posY" : 10,
+            "width" : 322,
+            "height" : 115,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+                
+        "play":
+        {
+            "text" : "",
+            "tooltip" : "Jogar!",
+            "texture" : "modpack:textures/jogar.png",
+            "posX" : -48,
+            "posY" : -145,
+            "width" : 82,
+            "height" : 82,
+            "alignment" : "bottom_center",
+            "imageWidth" : 83,
+            "imageHeight" : 83,
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "190.102.40.159:25671"
+            }
+        },
+
+        "website":
+        {
+            "text" : "",
+            "tooltip" : "Acessar nosso Site",
+            "texture" : "modpack:textures/web.png",
+            "posX" : -170,
+            "posY" : -90,
+            "width" : 52,
+            "height" : 52,
+            "alignment" : "bottom_center",
+            "imageWidth" : 53,
+            "imageHeight" : 53,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "narutofluxo.lojasquare.net"
+            }
+        },
+
+        "loja":
+        {
+            "text" : "",
+            "tooltip" : "Confira nossa Loja !",
+            "texture" : "modpack:textures/loja.png",
+            "posX" : -238,
+            "posY" : -90,
+            "width" : 52,
+            "height" : 52,
+            "alignment" : "bottom_center",
+            "imageWidth" : 53,
+            "imageHeight" : 53,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "narutofluxo.lojasquare.net/itens"
+            }
+        },
+
+        "disc2":
+        {
+            "text" : "",
+            "tooltip" : "Participe da Comunidade Ninja!",
+            "texture" : "modpack:textures/discord.png",
+            "posX" : 110,
+            "posY" : -90,
+            "width" : 52,
+            "height" : 52,
+            "alignment" : "bottom_center",
+            "imageWidth" : 53,
+            "imageHeight" : 53,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://discord.gg/5M7TnPPQ56"
+            }
+        },
+
+        "config":
+        {
+            "text" : "",
+            "tooltip" : "Config",
+            "texture" : "modpack:textures/config.png",
+            "posX" : 180,
+            "posY" : -90,
+            "width" : 52,
+            "height" : 52,
+            "alignment" : "bottom_center",
+            "imageWidth" : 53,
+            "imageHeight" : 53,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+
+        "sair":
+        {
+            "text" : "",
+            "tooltip" : "Fechar",
+            "texture" : "modpack:textures/sair.png",
+            "posX" : -20,
+            "posY" : 2,
+            "width" : 10,
+            "height" : 10,
+            "alignment" : "top_right",
+            "imageWidth" : 20,
+            "imageHeight" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+
+        "folder":
+        {
+            "text" : "",
+            "tooltip" : "Pasta do Modpack",
+            "texture" : "modpack:textures/folder.png",
+            "posX" : -45,
+            "posY" : 55,
+            "width" : 40,
+            "height" : 40,
+            "alignment" : "top_right",
+            "imageWidth" : 41,
+            "imageHeight" : 41,
+            "action" : 
+            {
+                "type" : "openFolder",
+                "folderName" : "/"
+            }
+        },
+
+        "1player":
+        {
+            "text" : "",
+            "tooltip" : "Single Player",
+            "texture" : "modpack:textures/1p.png",
+            "posX" : -45,
+            "posY" : 97,
+            "width" : 40,
+            "height" : 40,
+            "alignment" : "top_right",
+            "imageWidth" : 41,
+            "imageHeight" : 41,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+
+        "wiki":
+        {
+            "text" : "",
+            "tooltip" : "Wiki do Servidor",
+            "texture" : "modpack:textures/wiki.png",
+            "posX" : -45,
+            "posY" : 142,
+            "width" : 40,
+            "height" : 40,
+            "alignment" : "top_right",
+            "imageWidth" : 41,
+            "imageHeight" : 41,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://discord.com/channels/1212484823134769212/1250575203449311232"
+            }
+        }
+    },
+
+    "texts":
+    {
+        "hi":
+        {
+            "text":"Bem vindo, \u00A7d#username#\u00A7f!",
+            "posX" : -70,
+            "posY" : 2,
+            "fontSize" : 1,
+            "color" : -1,
+            "alignment" : "top_center",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        },
+
+        "ip":
+        {
+            "text":"IP: \u00A7bnarutofluxo.pvp.host",
+            "posX" : -58,
+            "posY" : -20,
+            "fontSize" : 1,
+            "color" : -1,
+            "alignment" : "bottom_center",
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "narutofluxo.pvp.host"
+            }
+        }
+    },
+
+    "other":
+    {
+        "background":
+        {
+            "image" : "",
+            "slideshow":
+            {
+                "images" : ["modpack:textures/bg5.png","modpack:textures/bg2.png","modpack:textures/bg6.png","modpack:textures/bg7.png","modpack:textures/bg3.png","modpack:textures/bg4.png","modpack:textures/bg1.png"],
+                "displayDuration" : 200,
+                "fadeDuration" : 20
+            }
+        },
+        
+        "splash-text":
+        {
+            "posX" : 200,
+            "posY" : 70,
+            "color" : -256,
+            "alignment" : "top_center",
+            "texts" : [    "Bem vindo ao Naruto Fluxo!",
+                        "Venha para o Time 7!",
+                        "Rasengaaaaaaa!...",
+                        "SASUKEEEEEEEE",
+                        "NARUTOOOOO!",
+                        "Tidoriiiiiiii!",
+                        "Jiraya está nas Fontes Termais",
+                        "OOOdama Rasengaaann!",
+                        "Kakashi foi visto lendo Jardim dos aAmaços",
+                        "Visite o Hokage!",
+                        "Visite as Outras Aldeias",
+                        "Dattebayo'h",
+                        "Sakura Chan",
+                        "JUTSU SEX'Y!!",
+                        "Rock Lee Liberou o 5 Portão!",
+                        "Uma Besta de Calda foi Libertada",
+                        "Kurama está enfurecido",
+                        "Visite o Vale do Fim!",
+                        "Nossa Batalha será mais do que Lendária",
+                        "Jutsu de Invocação",
+                        "Akatsuki está recrutando Membros",
+                        "Zetsu trabalha nas Sombras de Madara",
+                        "Tsukyome Infinito, O Plano da Lua!",
+                        "Sharingan!",
+                        "Zabuza Momochi, Debonio do Gás Oculto",
+                        "Perdedor!",
+                        "Estilo Fogo, Jutsu Bola De Fogo!",
+                        "Estilo Água, Jutsu Dragão de Água",
+                        "Raikiri!",
+                        "Mangekyo'h Sharigan!",
+                        "RasenShuriken!",
+                        "KageBushin!!",
+                        "Jutsu Clone das Sombras!",
+                        "Genio do Esforço, Sou Rock Lee",
+                        "Isso Leee, Deixe o Poder da Juventude Fluir",
+                        "Hinata Gosta de Você Naruto!",
+                        "A Byakugan está Ativa!",
+                        "Rota de Fuga pela Subterrâneo!",
+                        "Cuidado com a Anbu!",
+                        "Estilo Vento, Grande Rasengan!!",
+                        "Guren no Tsuki!!",
+                        "Dá Proxima eu vou Melhorar!",
+                        "Oi, Eu sou Naruto Uzumaki",
+                        "Missão Rank S, Participe",
+                        "Hiruzen Sarutobi, O 3 Hokage"
+            ]
+        }
+    }
+}
