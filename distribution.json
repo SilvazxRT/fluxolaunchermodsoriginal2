@@ -207,15 +207,12 @@
         },
         {
           "id": "ru.timeconqueror.spongemixins.core:unimixins:0.1.22@jar",
-          "name": "!UniMixins",
+          "name": "UniMixins",
           "type": "ForgeMod",
           "artifact": {
-            "size": 5260016,
-            "url": "https://raw.githubusercontent.com/SilvazxRT/fluxolaunchermodsoriginal2/main/servers/NarutoFluxo-1.7.10/forgemods/optionalon/!unimixins-all-1.7.10-0.1.22.jar",
-            "MD5": "c886bb4641729f3f0e4ce30d393e507e"
-          },
-          "required": {
-            "value": false
+            "size": 5259957,
+            "url": "https://raw.githubusercontent.com/SilvazxRT/fluxolaunchermodsoriginal2/main/servers/NarutoFluxo-1.7.10/forgemods/required/+unimixins-all-1.7.10-0.1.22%20(1).jar",
+            "MD5": "b0db1979072c8f37dfb68d828fcf3f71"
           }
         },
         {
@@ -250,12 +247,12 @@
         },
         {
           "id": "org.spongepowered.asm.launch:customnpcs:1.10.1@jar",
-          "name": "NarutoFluxoNPCS",
+          "name": "CustomNPC+",
           "type": "ForgeMod",
           "artifact": {
-            "size": 13778607,
+            "size": 13857318,
             "url": "https://raw.githubusercontent.com/SilvazxRT/fluxolaunchermodsoriginal2/main/servers/NarutoFluxo-1.7.10/forgemods/required/CustomNPC-Plus-1.10.1.jar",
-            "MD5": "79bf3d1dd98a4899e2ce08dc8932b1c3"
+            "MD5": "393669358a0e742ad4fdf475bc16184b"
           }
         },
         {
