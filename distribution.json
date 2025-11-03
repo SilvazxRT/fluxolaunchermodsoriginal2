@@ -250,13 +250,13 @@
           }
         },
         {
-          "id": "org.spongepowered.asm.launch:customnpcs:1.10.1@jar",
-          "name": "NarutoFluxoNPCS",
+          "id": "org.spongepowered.asm.launch:customnpcs:1.10.2@jar",
+          "name": "CustomNPC+",
           "type": "ForgeMod",
           "artifact": {
-            "size": 13778607,
-            "url": "https://raw.githubusercontent.com/SilvazxRT/fluxolaunchermodsoriginal2/main/servers/NarutoFluxo-1.7.10/forgemods/required/CustomNPC-Plus-1.10.1.jar",
-            "MD5": "79bf3d1dd98a4899e2ce08dc8932b1c3"
+            "size": 13921141,
+            "url": "https://raw.githubusercontent.com/SilvazxRT/fluxolaunchermodsoriginal2/main/servers/NarutoFluxo-1.7.10/forgemods/required/CustomNPC-Plus-1.10.2.jar",
+            "MD5": "98f402609d78ec772ad9660eb6fddec5"
           }
         },
         {
@@ -267,6 +267,16 @@
             "size": 838539,
             "url": "https://raw.githubusercontent.com/SilvazxRT/fluxolaunchermodsoriginal2/main/servers/NarutoFluxo-1.7.10/forgemods/required/DamageIndicators.jar",
             "MD5": "585658246c002b54334da46aefcb7007"
+          }
+        },
+        {
+          "id": "vazkii.emotes.client.asm:Emotes:1.0.1@jar",
+          "name": "Emotes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 92015,
+            "url": "https://raw.githubusercontent.com/SilvazxRT/fluxolaunchermodsoriginal2/main/servers/NarutoFluxo-1.7.10/forgemods/required/Emotes%201.0.1.jar",
+            "MD5": "a5224b8fc31c520eea7f51d879e036ff"
           }
         },
         {
@@ -290,13 +300,13 @@
           }
         },
         {
-          "id": "generated.forgemod:geckolib3:v3.0.0-master.7+604c673d58@jar",
+          "id": "generated.forgemod:geckolib3:v3.0.0-master.25+9af9be15e0@jar",
           "name": "GeckoLib",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3572688,
-            "url": "https://raw.githubusercontent.com/SilvazxRT/fluxolaunchermodsoriginal2/main/servers/NarutoFluxo-1.7.10/forgemods/required/geckolib-unofficial-1.7.10-1.0.3.jar",
-            "MD5": "422759795119fa69a3928d7884fe8764"
+            "size": 4238778,
+            "url": "https://raw.githubusercontent.com/SilvazxRT/fluxolaunchermodsoriginal2/main/servers/NarutoFluxo-1.7.10/forgemods/required/geckolib-unofficial-1.7.10-1.0.4.jar",
+            "MD5": "3ee7560fc0c0f6b802306954f1e5e353"
           }
         },
         {
@@ -370,6 +380,16 @@
           }
         },
         {
+          "id": "generated.forgemod:maddonall:1@jar",
+          "name": "MAddonAll",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 27162,
+            "url": "https://raw.githubusercontent.com/SilvazxRT/fluxolaunchermodsoriginal2/main/servers/NarutoFluxo-1.7.10/forgemods/required/mAddonAll%20-%20Server.jar",
+            "MD5": "988f4e65fc033b1aca8c67c714d2e67d"
+          }
+        },
+        {
           "id": "generated.forgemod:narutoc:v0.7.18@jar",
           "name": "NarutoC",
           "type": "ForgeMod",
@@ -397,6 +417,26 @@
             "size": 1860472,
             "url": "https://raw.githubusercontent.com/SilvazxRT/fluxolaunchermodsoriginal2/main/servers/NarutoFluxo-1.7.10/forgemods/required/NarutoFluxo.jar",
             "MD5": "91cd22d11d4dd5eeb1a1a250d2c31ecd"
+          }
+        },
+        {
+          "id": "generated.forgemod:NarutoFluxoWaypoints:1.0@jar",
+          "name": "NarutoFluxoWaypoints",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 28861,
+            "url": "https://raw.githubusercontent.com/SilvazxRT/fluxolaunchermodsoriginal2/main/servers/NarutoFluxo-1.7.10/forgemods/required/NarutoFluxoWaypoints.jar",
+            "MD5": "a5a37f0bb64329024b6d9c61a849c60c"
+          }
+        },
+        {
+          "id": "org.spongepowered.asm.launch:npcaw:1.1@jar",
+          "name": "CustomNPC-Plus-AW-Addon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 23772,
+            "url": "https://raw.githubusercontent.com/SilvazxRT/fluxolaunchermodsoriginal2/main/servers/NarutoFluxo-1.7.10/forgemods/required/npcaw-1.2.jar",
+            "MD5": "3b47b796898fe6f84d530437cf471ed7"
           }
         },
         {
@@ -471,7 +511,7 @@
           "artifact": {
             "size": 2463,
             "url": "https://raw.githubusercontent.com/SilvazxRT/fluxolaunchermodsoriginal2/main/servers/NarutoFluxo-1.7.10/files/config/CustomNpcPlus/client.cfg",
-            "MD5": "11efd8004228ff006f7eda0674654ce4",
+            "MD5": "5581939eff8c3e88527be53cce968988",
             "path": "config/CustomNpcPlus/client.cfg"
           }
         },
@@ -480,9 +520,9 @@
           "name": "debug.cfg",
           "type": "File",
           "artifact": {
-            "size": 1094,
+            "size": 1179,
             "url": "https://raw.githubusercontent.com/SilvazxRT/fluxolaunchermodsoriginal2/main/servers/NarutoFluxo-1.7.10/files/config/CustomNpcPlus/debug.cfg",
-            "MD5": "fc3bd947927ca742985b29bbb1314dcd",
+            "MD5": "b198a6417392ea43efad7523f5101398",
             "path": "config/CustomNpcPlus/debug.cfg"
           }
         },
@@ -491,9 +531,9 @@
           "name": "experimental.cfg",
           "type": "File",
           "artifact": {
-            "size": 153,
+            "size": 152,
             "url": "https://raw.githubusercontent.com/SilvazxRT/fluxolaunchermodsoriginal2/main/servers/NarutoFluxo-1.7.10/files/config/CustomNpcPlus/experimental.cfg",
-            "MD5": "515db9db62782ecb4f4c6aa6588746ec",
+            "MD5": "914e1bccace25cead73a2ff72eec594b",
             "path": "config/CustomNpcPlus/experimental.cfg"
           }
         },
@@ -535,9 +575,9 @@
           "name": "script.cfg",
           "type": "File",
           "artifact": {
-            "size": 2731,
+            "size": 3216,
             "url": "https://raw.githubusercontent.com/SilvazxRT/fluxolaunchermodsoriginal2/main/servers/NarutoFluxo-1.7.10/files/config/CustomNpcPlus/script.cfg",
-            "MD5": "65bc3c1ea89a3685ca5cca9a5b5f947b",
+            "MD5": "444ba087f65e0d2e2a0c993c58124150",
             "path": "config/CustomNpcPlus/script.cfg"
           }
         },
@@ -546,9 +586,9 @@
           "name": "DamageIndicatorsMod.cfg",
           "type": "File",
           "artifact": {
-            "size": 6799,
+            "size": 7162,
             "url": "https://raw.githubusercontent.com/SilvazxRT/fluxolaunchermodsoriginal2/main/servers/NarutoFluxo-1.7.10/files/config/DamageIndicatorsMod.cfg",
-            "MD5": "f4923063f9baf00a8efef210fdf091a0",
+            "MD5": "944654b3d03c1c4b2001c085793645ed",
             "path": "config/DamageIndicatorsMod.cfg"
           }
         },
@@ -557,9 +597,9 @@
           "name": "DIAdvancedCompatibility.cfg",
           "type": "File",
           "artifact": {
-            "size": 41322,
+            "size": 165825,
             "url": "https://raw.githubusercontent.com/SilvazxRT/fluxolaunchermodsoriginal2/main/servers/NarutoFluxo-1.7.10/files/config/DIAdvancedCompatibility.cfg",
-            "MD5": "bff477c0bb8267164458db9b4a0a101f",
+            "MD5": "2a34293e477e8129e2068cd9c8359572",
             "path": "config/DIAdvancedCompatibility.cfg"
           }
         },
@@ -700,9 +740,9 @@
           "name": "geckolib3.cfg",
           "type": "File",
           "artifact": {
-            "size": 476,
+            "size": 564,
             "url": "https://raw.githubusercontent.com/SilvazxRT/fluxolaunchermodsoriginal2/main/servers/NarutoFluxo-1.7.10/files/config/geckolib3.cfg",
-            "MD5": "5c4a566dd75b5001ddfe153c3741392f",
+            "MD5": "2eb63f6c81637dcac71ee36ea9d49eee",
             "path": "config/geckolib3.cfg"
           }
         },
@@ -1142,7 +1182,7 @@
           "artifact": {
             "size": 339,
             "url": "https://raw.githubusercontent.com/SilvazxRT/fluxolaunchermodsoriginal2/main/servers/NarutoFluxo-1.7.10/files/config/splash.properties",
-            "MD5": "c9f2e08e3bce7728014a28626d4e5ca2",
+            "MD5": "ab78b7b4ee1700a2d79b79d4f26fec6c",
             "path": "config/splash.properties"
           }
         },
@@ -1164,7 +1204,7 @@
           "artifact": {
             "size": 94393,
             "url": "https://raw.githubusercontent.com/SilvazxRT/fluxolaunchermodsoriginal2/main/servers/NarutoFluxo-1.7.10/files/config/UniqueNames.txt",
-            "MD5": "4d5a4bcd2b29b945a6307763413d0d2b",
+            "MD5": "b8884811b86c0938a41ca716e155e7de",
             "path": "config/UniqueNames.txt"
           }
         }
